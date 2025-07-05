@@ -1,0 +1,29 @@
+Kipi Welcome Kit Guide
+
+Welcome to Kipi! We're thrilled to have you join our team. This guide outlines how to get set up with your essential Kipi equipment.
+
+**1. Laptop & Accessories Delivery:**
+Your Kipi-issued laptop, monitor, keyboard, and mouse are typically shipped to your registered home address within 3-5 business days of your start date.
+* **Tracking:** You will receive an email from "Kipi IT Logistics" with a tracking number from our shipping partner (e.g., FedEx, DHL). Please monitor this email closely.
+* **Issues:** If your equipment has not arrived within 5 business days, or if there are any damages upon arrival, please immediately contact IT Support at the details below.
+
+**2. VPN Setup:**
+Accessing Kipi's internal network and resources requires a Virtual Private Network (VPN) connection.
+* **Instructions:** A separate email titled "Kipi VPN Setup Instructions" will be sent to your personal email address on your first day. Please follow these steps carefully.
+* **Support:** If you encounter any issues during VPN setup, refer to the "IT_Support_FAQs.txt" document or contact the IT Helpdesk directly.
+
+**3. Company ID Badge / Access Card:**
+For employees working from a Kipi office location, a company ID badge is essential for building access and security.
+* **Process:** On your first visit to a Kipi office, please report to the Security Desk in the main lobby. Present a valid government-issued ID (e.g., Passport, Driving License).
+* **Photo:** A photo will be taken on-site for your ID badge.
+* **Remote Employees:** If you are a fully remote employee, an ID badge is not required unless you plan to visit an office. Please inform your manager if you anticipate needing one.
+
+**4. Company Email Account Setup:**
+Your Kipi email account will be activated on your first day.
+* **Login:** Instructions for logging into your Outlook email via web browser or desktop client will be provided in the "Internal_Comms_Tools_Guide.txt" document.
+* **Password:** Your initial password will be sent via SMS to your registered mobile number. You will be prompted to change it on first login.
+
+**Contact IT Support:**
+* Phone: Extension 1234 (internal) or +91-80-XXXX-XXXX (external)
+* Email: it.help@kipi.com
+* Self-service portal: helpdesk.kipi.com

@@ -1,0 +1,30 @@
+Kipi IT Support - Frequently Asked Questions (FAQs)
+
+This document addresses common IT issues and provides guidance on how to get support.
+
+**1. How do I reset my VPN password?**
+* **Answer:** You can reset your VPN password by visiting our self-service portal at `https://reset.kipi.com/vpn`. Follow the on-screen instructions. If issues persist, contact the IT Helpdesk.
+
+**2. My laptop is not turning on / is very slow. What should I do?**
+* **Answer:** First, try a hard restart by holding the power button for 10 seconds. If the problem continues, or if your laptop is unusable, please raise an IT support ticket immediately via `helpdesk.kipi.com`. Provide a detailed description of the issue and any error messages.
+
+**3. How do I request new software for my Kipi laptop?**
+* **Answer:** All software requests must go through the "Software Request Form" available on the Kipi Intranet under the "IT Services" section. Access the Intranet at `https://intranet.kipi.com`. Unapproved software installations are not permitted.
+
+**4. My Kipi email (Outlook) is not syncing.**
+* **Answer:**
+    * Check your internet connection.
+    * Ensure your VPN is connected (if working remotely).
+    * Try restarting Outlook.
+    * If the problem persists, raise a ticket at `helpdesk.kipi.com` under the "Email & Communication" category.
+
+**5. Who do I contact for IT support?**
+* **Answer:**
+    * **Primary Method:** For all non-urgent issues, raise a ticket via our self-service portal: `helpdesk.kipi.com`
+    * **Urgent Issues (System Down, Can't Work):**
+        * Internal Phone: Extension 1234
+        * External Phone: +91-80-XXXX-XXXX (for India region)
+        * Email: `it.help@kipi.com` (for non-urgent queries only, ticket preferred)
+
+**6. How do I get access to a specific shared drive or folder?**
+* **Answer:** Access to shared drives and folders is permission-based. Please submit a "Shared Drive Access Request" form through `helpdesk.kipi.com`. Your manager's approval will be required.

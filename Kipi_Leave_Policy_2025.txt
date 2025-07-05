@@ -1,0 +1,36 @@
+Kipi Employee Leave Policy 2025
+
+This document outlines the various leave types available to Kipi employees and the process for applying.
+
+**1. Annual Leave (Vacation Leave):**
+* **Entitlement:** 20 working days per calendar year.
+* **Accrual:** Leave accrues monthly at a rate of 1.67 days per month.
+* **Application:** Must be applied for via HR PortalX (`https://hr.kipi.com`) at least **5 working days in advance** for planned leave.
+* **Approval:** Requires approval from your direct manager.
+* **Carry-forward:** Up to 5 unutilized annual leave days can be carried forward to the next calendar year.
+
+**2. Sick Leave:**
+* **Entitlement:** 10 working days per calendar year.
+* **Application:** Inform your manager and HR via email on the first day of absence. Apply for leave in HR PortalX.
+* **Medical Certificate:** A medical certificate from a registered doctor is **required for absences exceeding 3 consecutive working days**. Submit the certificate to HR via PortalX.
+
+**3. Casual Leave:**
+* **Entitlement:** 5 working days per calendar year.
+* **Purpose:** For unforeseen personal matters.
+* **Application:** Applied via HR PortalX. Inform your manager as soon as possible. No advance notice typically required, but manager discretion applies.
+
+**4. Maternity/Paternity Leave:**
+* **Maternity Leave:** 26 weeks for female employees, as per government regulations. Requires official notice and documentation.
+* **Paternity Leave:** 10 working days for male employees, to be taken within 6 months of child's birth/adoption.
+* **Details:** Refer to the detailed "Kipi Family Leave Policy" document on the Intranet or contact HR.
+
+**5. Applying for Leave - Step-by-Step:**
+* **Step 1:** Log into HR PortalX (`https://hr.kipi.com`).
+* **Step 2:** Navigate to the "Leave Management" section.
+* **Step 3:** Select "Apply for New Leave."
+* **Step 4:** Choose the leave type, specify start and end dates.
+* **Step 5:** Provide a reason for leave.
+* **Step 6:** Submit for manager approval. You will receive notifications via email on the status of your application.
+
+**Contact HR:**
+* For detailed policy queries: `hr.support@kipi.com`

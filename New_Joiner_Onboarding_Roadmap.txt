@@ -1,0 +1,54 @@
+# Kipi New Joiner Onboarding Roadmap - Your Journey to Success
+
+Welcome to your structured onboarding journey at Kipi! This roadmap guides you through key milestones and activities designed to help you integrate smoothly and become productive quickly.
+
+## Phase 1: Week 1 - Foundation & Integration
+
+**Goal:** Get set up, understand essential policies, and meet key people.
+
+* **Day 1-2: Initial Setup & HR Compliance**
+    * **Task:** Complete all mandatory HR portal forms (Employee Information, Bank Details, Tax Declaration) on PortalX (`https://hr.kipi.com`). This is crucial for payroll.
+    * **Task:** Attend "Welcome to Kipi" virtual session. Check your Outlook Calendar for the invite.
+    * **Task:** Confirm laptop delivery and initiate IT setup with IT Helpdesk (contact Ext 1234 or it.help@kipi.com if needed). Refer to `Kipi_Welcome_Kit_Guide.txt`.
+    * **Action:** Meet your assigned Buddy for an introductory chat. Your manager will facilitate this.
+    * **Expected Outcome:** Full access to Kipi systems (email, VPN), initial HR paperwork completed.
+
+* **Day 3-5: System Access & Basic Training**
+    * **Task:** Gain full access to internal communication tools (Slack, Teams, Email). Refer to `Internal_Comms_Tools_Guide.txt`.
+    * **Task:** Complete "Kipi Security Awareness Training" on LearningHub (`learninghub.kipi.com`). This is mandatory.
+    * **Action:** Explore the Kipi Intranet (`https://intranet.kipi.com`) for company news and resources, including the `Employee_Directory_Access.txt`.
+    * **Action:** Review the "Kipi Employee Handbook" (available on the Intranet) and acknowledge understanding in HR PortalX.
+    * **Expected Outcome:** Familiarity with core Kipi tools and policies, basic security understanding.
+
+## Phase 2: Week 2-4 - Role Immersion & Learning
+
+**Goal:** Understand your role deeply, integrate with your team, and begin contributing.
+
+* **Week 2: Team Integration & Project Overview**
+    * **Task:** Schedule 1:1 meetings with your direct manager and key team members. Understand their roles and how they interact with yours.
+    * **Task:** Understand your team's current projects and priorities. Ask your manager for an overview.
+    * **Action:** Begin reviewing project documentation relevant to your role (ask your manager where to find this, usually on Teams or SharePoint).
+    * **Expected Outcome:** Clear understanding of team structure, project landscape, and your immediate responsibilities.
+
+* **Week 3-4: Core Training & Initial Contribution**
+    * **Task:** Enroll in and complete role-specific training modules on LearningHub (`learninghub.kipi.com`). Your manager will recommend specific courses (e.g., "Delivery Analyst Fundamentals," "HR System Navigation").
+    * **Task:** Start shadowing or assisting with initial, low-complexity project tasks. Don't be afraid to ask questions!
+    * **Task:** Set initial 30-60-90 day goals with your manager.
+    * **Expected Outcome:** Completion of foundational role-specific training, active participation in team tasks.
+
+## Phase 3: Month 2-3 - Contribution & Growth
+
+**Goal:** Become a self-sufficient, valuable contributor and plan for future development.
+
+* **Month 2.5: Mid-Probation Check-in**
+    * **Task:** Formal performance and integration review with your manager. This is an opportunity to discuss progress, challenges, and future development areas.
+    * **Expected Outcome:** Constructive feedback, clear development plan.
+
+* **Ongoing: Continuous Learning & Networking**
+    * **Action:** Identify and enroll in professional development courses or certifications relevant to your career path on LearningHub.
+    * **Action:** Participate in internal company events and initiatives (e.g., Kipi Connect, employee resource groups).
+    * **Action:** Seek mentorship opportunities within Kipi.
+    * **Task:** Start contributing independently to projects, taking ownership of specific tasks or modules.
+    * **Expected Outcome:** Continued professional growth, expanded internal network, self-driven contribution.
+
+This roadmap is a guide. Your journey may vary slightly based on your role and team. Your Kipi New Joiner Companion is here to help you navigate every step!

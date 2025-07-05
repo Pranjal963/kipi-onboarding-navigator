@@ -1,0 +1,29 @@
+Kipi Employee Expense Reimbursement Policy v2.0
+
+This policy outlines the guidelines and procedures for employees to claim reimbursement for legitimate business expenses incurred on behalf of Kipi.
+
+**1. Eligible Expenses:**
+* **Travel:** Flights (economy class), train fares, local transportation (taxis, public transport) for business travel.
+* **Accommodation:** Hotel stays at approved rates for business travel.
+* **Meals:** Business meals with clients or colleagues (up to $50 per person for lunch/dinner, $15 for breakfast). Itemized receipts required.
+* **Office Supplies:** Small, immediate needs not provided by central procurement.
+* **Client Entertainment:** Must be pre-approved by a director-level manager.
+
+**2. Non-Reimbursable Expenses:**
+* Personal expenses (e.g., personal entertainment, toiletries, clothing).
+* Alcoholic beverages exceeding approved limits or without a legitimate business purpose.
+* Fines, parking tickets, or any legal penalties.
+
+**3. Reimbursement Process - Step-by-Step:**
+* **Step 1: Record Expenses:** As soon as an expense is incurred, record it in the "Expensify" mobile app or web portal (`https://expensify.kipi.com`).
+* **Step 2: Attach Receipts:** For every expense, you **must** attach an original, itemized receipt (digital photo is acceptable). Expenses without receipts will not be reimbursed.
+* **Step 3: Categorize:** Select the correct expense category in Expensify (e.g., "Travel," "Client Meal").
+* **Step 4: Manager Approval:** Submit your expense report to your direct manager for approval within Expensify.
+* **Step 5: Submission Deadline:** All approved expense reports must be submitted in Expensify by the **25th of the month** to be processed for reimbursement in the following month's payroll.
+* **Step 6: Reimbursement:** Approved amounts will be credited to your registered bank account with your next salary cycle.
+
+**4. Policy Violations:**
+* Any violation of this policy may result in non-reimbursement, disciplinary action, and in severe cases, termination of employment.
+
+**Contact Finance:**
+* For questions about expense policies: `finance.helpdesk@kipi.com`

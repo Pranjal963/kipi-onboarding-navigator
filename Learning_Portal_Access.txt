@@ -1,0 +1,33 @@
+Kipi LearningHub Access & Overview
+
+Kipi LearningHub (`learninghub.kipi.com`) is your gateway to continuous learning and professional development.
+
+**1. How to Access LearningHub:**
+* **URL:** `https://learninghub.kipi.com`
+* **Login:** Use your standard Kipi network credentials (the same username and password you use for your laptop and email).
+* **First-time Login:** You may be prompted to set up your profile and indicate your learning interests.
+
+**2. Types of Training Available:**
+* **Mandatory Training:**
+    * "Kipi Security Awareness Training" (required annually).
+    * "Code of Conduct & Ethics" (required upon joining).
+    * "Data Privacy & GDPR Compliance" (role-specific).
+* **Role-Specific Training:**
+    * Courses tailored to your department and job function (e.g., "Delivery Methodologies," "Advanced Excel for Finance," "HR System Navigation"). Your manager will recommend relevant courses.
+* **Professional Development:**
+    * Courses on leadership, communication, project management, technical skills (e.g., Python, Cloud platforms), and more.
+* **Certifications:**
+    * Access to preparation courses and exam vouchers for industry certifications (e.g., PMP, AWS, Azure, Salesforce).
+
+**3. How to Enroll in a Course:**
+* **Step 1:** Browse the "Course Catalog" or use the search bar.
+* **Step 2:** Click on a course to view its details (description, duration, prerequisites).
+* **Step 3:** Click the "Enroll" or "Start Course" button.
+* **Step 4:** For some advanced courses or certifications, manager approval may be required, or you might need to submit a training request form via HR PortalX.
+
+**4. Tracking Your Progress:**
+* Your progress in all enrolled courses is tracked automatically.
+* You can view your "Learning Transcript" and "Completed Courses" in your LearningHub profile.
+
+**5. Learning & Development Team:**
+* For any questions about LearningHub, training recommendations, or specific development plans, contact the Learning & Development team at `lnd.support@kipi.com`.

@@ -1,0 +1,40 @@
+Kipi Internal Communication Tools Guide
+
+Staying connected at Kipi is essential! We use several tools for different communication needs.
+
+**1. Kipi Email (Microsoft Outlook):**
+* **Primary Use:** Formal communications, external stakeholders, official announcements.
+* **Access:** Via Outlook desktop client (pre-installed on Kipi laptops) or web version at `https://outlook.kipi.com`.
+* **Best Practice:** Check frequently for important updates and announcements.
+
+**2. Slack:**
+* **Primary Use:** Quick team chats, informal discussions, asking quick questions, project updates.
+* **Access:** Desktop app or web version at `https://kipi.slack.com`.
+* **Key Channels to Join:**
+    * `#general`: Company-wide announcements.
+    * `#yourteamname`: Your immediate team's discussion.
+    * `#random`: For non-work related chat.
+    * `#help-it`: For quick IT queries.
+* **Best Practice:** Use threads for replies to keep conversations organized.
+
+**3. Microsoft Teams:**
+* **Primary Use:** Formal team meetings (video/audio calls), collaborative document editing (using SharePoint/OneDrive integration), project-specific channels.
+* **Access:** Desktop app or web version at `https://teams.microsoft.com`.
+* **Key Features:** Video conferencing, screen sharing, meeting recording, file sharing, and integrated chat.
+* **Best Practice:** Schedule meetings through Outlook Calendar to automatically generate Teams links.
+
+**4. Kipi Intranet (SharePoint):**
+* **Primary Use:** Central repository for company policies, documents, news, department sites, forms, and general company information.
+* **Access:** `https://intranet.kipi.com`
+* **Key Sections:** HR Policies, IT Services, Marketing Resources, Company News, Employee Directory.
+* **Best Practice:** Use the search bar to quickly find documents and information.
+
+**5. Kipi Town Halls & All-Hands Meetings:**
+* **Purpose:** Company-wide updates, Q&A with leadership.
+* **Frequency:** Typically monthly or quarterly.
+* **Platform:** Conducted via Microsoft Teams. Invitations sent via Outlook Calendar.
+
+**Tips for Effective Communication:**
+* Choose the right tool for the message.
+* Be clear and concise.
+* Respect colleagues' time zones.

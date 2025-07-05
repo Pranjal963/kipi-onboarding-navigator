@@ -1,0 +1,28 @@
+Kipi Internal Resume Template Guidelines
+
+At Kipi, we encourage internal mobility and growth. Keeping your internal resume updated is key to exploring new opportunities.
+
+**1. Template Download:**
+* The official Kipi Internal Resume Template can be downloaded from the Kipi SharePoint drive: `https://kipi.sharepoint.com/docs/templates/internal_resume.docx`
+* Ensure you use this template for consistency.
+
+**2. Sections to Include:**
+* **Contact Information:** Name, Kipi Email, Kipi Phone Extension.
+* **Summary/Objective:** A brief paragraph highlighting your career goals and what you bring to Kipi.
+* **Project Experience (Kipi & Previous):**
+    * List projects in reverse chronological order.
+    * For Kipi projects, include: Project Name, Your Role, Start/End Dates, Key Responsibilities, Achieved Outcomes (quantify where possible).
+    * For previous companies, focus on relevant experience.
+* **Skills:** Categorize skills (e.g., Technical Skills, Soft Skills, Languages). Be specific (e.g., Python, SQL, Azure, Project Management, Communication).
+* **Certifications:** List any relevant professional certifications (e.g., PMP, AWS Certified Solutions Architect).
+* **Education:** Degree, Major, University, Graduation Year.
+
+**3. Formatting Rules:**
+* **Font:** Use Arial, 11pt for body text; 14pt for headings.
+* **Margins:** 1-inch (2.54 cm) on all sides.
+* **Length:** Maximum 2 pages for experienced professionals; 1 page for freshers/entry-level.
+* **File Format:** Always save and share as a `.pdf` to preserve formatting.
+
+**4. Submission for Internal Projects:**
+* When applying for internal projects or roles, your updated Kipi internal resume should be submitted via email to the hiring manager and `projects.team@kipi.com`.
+* The subject line should clearly state: "Internal Resume Submission - [Your Name] - [Desired Role/Project Name]".

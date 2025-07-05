@@ -1,0 +1,35 @@
+Kipi New Hire Document Checklist - Mandatory Actions for Week 1
+
+To ensure a smooth onboarding and timely payroll processing, please complete the following mandatory actions within your first week.
+
+**1. HR PortalX Login:**
+* **Action:** Access the Kipi HR PortalX at: `https://hr.kipi.com`
+* **Details:** Your login credentials will be emailed to your personal email on Day 1.
+* **Deadline:** Day 1
+
+**2. Employee Information Form:**
+* **Action:** Navigate to "My Profile" in PortalX and complete all sections.
+* **Includes:** Personal details, emergency contacts, academic qualifications.
+* **Deadline:** Day 3
+
+**3. Bank Details for Payroll:**
+* **Action:** Submit your preferred bank account details for salary disbursement in the "Payroll" section of PortalX.
+* **Required:** Account number, IFSC code (for India), bank name, branch.
+* **Deadline:** Week 1 Friday
+
+**4. Tax Declaration Forms:**
+* **Action:** Upload your initial tax declaration documents (e.g., PAN card, Aadhaar card, previous employment tax forms) to the "Tax & Compliance" section of PortalX.
+* **Deadline:** End of Month 1
+
+**5. Acknowledgment of Employee Handbook:**
+* **Action:** Read the "Kipi Employee Handbook" (available on the Intranet) and acknowledge your understanding in PortalX.
+* **Deadline:** Day 5
+
+**6. Benefits Enrollment (Optional, but recommended):**
+* **Action:** Explore and enroll in available employee benefits (e.g., health insurance, provident fund) in the "Benefits" section of PortalX.
+* **Deadline:** End of Month 1 (specific enrollment windows may apply)
+
+**Contact HR Support:**
+* For any questions regarding these documents or the HR Portal:
+* Email: `hr.support@kipi.com`
+* Phone: Extension 5678 (internal)
