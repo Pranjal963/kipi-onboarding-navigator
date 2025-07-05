@@ -9,7 +9,6 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBulf7B7HAfxQPPcCK6Q1ZoB4nc2kAGfJs"
 
 @st.cache_resource
 def setup_qa_chain():
